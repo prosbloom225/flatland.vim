@@ -15,7 +15,6 @@ hi Visual ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#515559 gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#3b3e40 gui=NONE
 hi CursorColumn ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#3b3e40 gui=NONE
 hi ColorColumn ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#3b3e40 gui=NONE
-hi LineNr ctermfg=102 ctermbg=59 cterm=NONE guifg=#8f9192 guibg=#3b3e40 gui=NONE
 hi VertSplit ctermfg=241 ctermbg=241 cterm=NONE guifg=#636567 guibg=#636567 gui=NONE
 hi MatchParen ctermfg=209 ctermbg=NONE cterm=underline guifg=#fa9a4b guibg=NONE gui=underline
 hi StatusLine ctermfg=231 ctermbg=241 cterm=bold guifg=#f8f8f8 guibg=#636567 gui=bold
@@ -108,7 +107,7 @@ hi cssBraces ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 
 hi Cursor ctermfg=16 ctermbg=59 cterm=NONE guifg=#222222 guibg=#555555 gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#404345 gui=NONE
-hi LineNr guifg=#515253 guibg=#2c2f31 gui=NONE ctermfg=237 ctermbg=237 cterm=NONE
+hi LineNr guifg=#515253 guibg=#2c2f31 gui=NONE ctermfg=gray ctermbg=black cterm=NONE
 hi NonText guifg=#2d3033 guibg=#2d3033 gui=NONE ctermfg=237 ctermbg=237 cterm=NONE
 hi VertSplit guifg=#515253 guibg=NONE gui=NONE ctermfg=237 ctermbg=237 cterm=NONE
 hi String guifg=#b0d000 guibg=NONE gui=NONE ctermfg=247 ctermbg=NONE cterm=NONE
